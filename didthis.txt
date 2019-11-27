@@ -1,0 +1,6 @@
+   cd mgmvegantogoweb
+
+   npx express-generator
+   npm install
+   npm audit fix
+   npm start
